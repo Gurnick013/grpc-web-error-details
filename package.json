@@ -1,6 +1,6 @@
 {
-  "name": "grpc-web-error-details",
-  "version": "1.0.1",
+  "name": "grpc-web-error-details-bin",
+  "version": "1.0.2",
   "description": "Utility function for deserializing `grpc-status-details-bin` metadata on grpc-web",
   "license": "MIT",
   "main": "dist/index.js",
